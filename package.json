@@ -1,0 +1,16 @@
+{
+  "name": "updater",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "run": "node artifactUpdate.js && node monitorUpdate.js"
+  },
+  "author": "https://github.com/mk3ext",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "cheerio": "^1.0.0-rc.10",
+    "extract-zip": "^2.0.1",
+    "request-promise": "^4.2.6"
+  }
+}

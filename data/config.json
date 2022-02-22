@@ -1,0 +1,11 @@
+{
+  "artifacts": {
+    "url": "https://runtime.fivem.net/artifacts/fivem/build_proot_linux/master/",
+    "directory": "fivem/artifact",
+    "archive": "fx.tar.xz"
+  },
+  "monitor": {
+    "repo": "https://api.github.com/repos/tabarra/txAdmin/releases/latest",
+    "archive": "monitor.zip"
+  }
+}
